@@ -124,6 +124,7 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+next-env.d.ts
 
 npm-debug.log*
 yarn-debug.log*
@@ -149,9 +150,6 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 #amplify-do-not-edit-end
-
-# misc
-.DS_Store
 
 # vercel
 .vercel
