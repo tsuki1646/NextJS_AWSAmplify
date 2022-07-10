@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjsamplifyyoutube-dev-112524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::022337776313:role/amplify-nextjsamplifyyoutube-dev-112524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::022337776313:role/amplify-nextjsamplifyyoutube-dev-112524-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-nextjsamplifyyoutube-dev-112524-deployment",
+      "UnauthRoleName": "amplify-nextjsamplifyyoutube-dev-112524-unauthRole",
+      "StackName": "amplify-nextjsamplifyyoutube-dev-112524",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:022337776313:stack/amplify-nextjsamplifyyoutube-dev-112524/89cc5ba0-0939-11ec-a431-0ef1c820c3cb",
+      "AmplifyAppId": "d22ftdyjvyfh1g"
+    },
+    "categories": {
+      "auth": {
+        "nextjsamplifyyoutube9599f750": {}
+      }
+    }
+  }
+}

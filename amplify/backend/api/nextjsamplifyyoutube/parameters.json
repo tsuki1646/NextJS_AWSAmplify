@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "nextjsamplifyyoutube",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authnextjsamplifyyoutube9599f750",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
